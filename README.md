@@ -120,6 +120,8 @@ pip install -r requirements.txt
 ```bash
 # Add JPG/PNG images named after the user
 cp your_photo.jpg faces/satya.jpg
+# Tested with 2 registered users. The system scales to any number 
+# of users by adding images to the faces/ directory — no code changes required.
 ```
 
 ### 4. Add a knowledge base
