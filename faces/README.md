@@ -9,8 +9,8 @@ Place registered user face images here.
 **Example:**
 ```
 faces/
-  satya.jpg
-  gita.jpg
+  registered_user.jpg
+  sample_user.jpg
 ```
 
 Do not commit real face images to a public repository.
